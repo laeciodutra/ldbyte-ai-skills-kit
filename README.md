@@ -252,4 +252,4 @@ MIT License — use, modifique e distribua livremente.
 
 ---
 
-**Criado por [LDbyte](https://github.com/LDbyte)** — Skills para quem leva qualidade a sério.
+**Criado por [LDbyte](https://github.com/laeciodutra)** — Skills para quem leva qualidade a sério.

@@ -10,7 +10,7 @@
 ## 1. Clonar o Repositório
 
 ```bash
-git clone https://github.com/LDbyte/ldbyte-ai-skills-kit.git
+git clone https://github.com/laeciodutra/ldbyte-ai-skills-kit.git
 cd ldbyte-ai-skills-kit
 ```
 
