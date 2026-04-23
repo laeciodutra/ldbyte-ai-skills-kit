@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "totalWorkflows": 9,
+  "workflows": [
+    { "name": "Iniciar Novo Projeto", "file": "iniciar-novo-projeto.md", "skills": ["design-system-builder", "color-typography-system", "frontend-premium-ui"], "when": "Começando projeto do zero" },
+    { "name": "Melhorar Tela Existente", "file": "melhorar-tela-existente.md", "skills": ["frontend-redesign-audit", "component-upgrade", "forms-inputs-ux"], "when": "Tela pronta mas precisa melhorar" },
+    { "name": "Transformar UI Feia em Premium", "file": "transformar-ui-feia-em-premium.md", "skills": ["full-project-review", "frontend-redesign-audit", "design-system-builder", "frontend-premium-ui"], "when": "Redesign visual completo" },
+    { "name": "Auditar Projeto Antes de Editar", "file": "auditar-projeto-antes-de-editar.md", "skills": ["full-project-review", "security-code-audit", "frontend-redesign-audit"], "when": "Entender projeto antes de mexer" },
+    { "name": "Refatorar sem Quebrar", "file": "refatorar-sem-quebrar.md", "skills": ["bugfix-without-breaking"], "when": "Refatoração segura" },
+    { "name": "Revisar Segurança", "file": "revisar-seguranca.md", "skills": ["security-code-audit"], "when": "Auditoria de segurança completa" },
+    { "name": "Criar Design System", "file": "criar-design-system.md", "skills": ["design-system-builder", "color-typography-system"], "when": "Design system do zero" },
+    { "name": "Converter HTML/PHP para UI Moderna", "file": "converter-html-php-para-ui-moderna.md", "skills": ["php-laravel-ui-specialist", "design-system-builder", "legacy-project-modernizer"], "when": "Migração visual PHP" },
+    { "name": "Melhorar SaaS Dashboard", "file": "melhorar-saas-dashboard.md", "skills": ["dashboard-saas-ui", "forms-inputs-ux", "design-system-builder"], "when": "Dashboard mais profissional" }
+  ]
+}

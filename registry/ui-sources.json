@@ -1,0 +1,53 @@
+{
+  "version": "1.0.0",
+  "sources": [
+    {
+      "name": "shadcn/ui",
+      "url": "https://ui.shadcn.com",
+      "type": "component-library",
+      "inspiration": "Componentes acessíveis com Radix UI, design tokens HSL, Tailwind patterns",
+      "when": "Projetos React/Next.js com Tailwind. Base para componentes acessíveis.",
+      "components": ["Alert", "Button", "Card", "Dialog", "Dropdown", "Input", "Select", "Table", "Tabs", "Toast"]
+    },
+    {
+      "name": "Magic UI",
+      "url": "https://magicui.design",
+      "type": "premium-effects",
+      "inspiration": "Efeitos visuais premium: Bento Grid, Marquee, Border Beam, Magic Card, Animated List, Globe, Particles",
+      "when": "Landing pages, hero sections, efeitos wow. Animações de texto (Aurora Text, Number Ticker, Morphing Text).",
+      "components": ["Bento Grid", "Marquee", "Border Beam", "Magic Card", "Shimmer Button", "Rainbow Button", "Animated Beam", "Number Ticker", "Terminal"]
+    },
+    {
+      "name": "Aceternity UI",
+      "url": "https://ui.aceternity.com",
+      "type": "animated-components",
+      "inspiration": "200+ componentes com Framer Motion: 3D Cards, Hero Parallax, Spotlight, Aurora Background, Floating Dock",
+      "when": "Hero sections, backgrounds animados, cards com efeitos, landing pages premium.",
+      "components": ["3D Card Effect", "Hero Parallax", "Spotlight", "Aurora Background", "Floating Dock", "Bento Grid", "Infinite Moving Cards", "Macbook Scroll", "Wavy Background", "Timeline"]
+    },
+    {
+      "name": "ReactBits",
+      "url": "https://reactbits.dev",
+      "type": "interactive-components",
+      "inspiration": "Componentes interativos e animados de alta qualidade para React",
+      "when": "Componentes interativos, animações criativas, efeitos de hover e mouse.",
+      "components": ["Text animations", "Backgrounds", "Buttons", "Cards", "Navigation"]
+    },
+    {
+      "name": "NyxHora UI",
+      "url": "https://ui.nyxhora.com",
+      "type": "modern-components",
+      "inspiration": "Composição visual moderna, componentes clean",
+      "when": "Referência para composição visual e layout moderno.",
+      "components": ["Components", "Layouts", "Patterns"]
+    },
+    {
+      "name": "Antigravity Awesome Skills",
+      "url": "https://github.com/sickn33/antigravity-awesome-skills",
+      "type": "skill-library",
+      "inspiration": "Estrutura de skills SKILL.md, bundles, workflows, instalação por CLI, organização por categoria",
+      "when": "Referência para estrutura e organização de skills para agentes IA.",
+      "notes": "1431+ skills. Padrão da indústria para skills de IA. Não copiar — usar como inspiração para organização."
+    }
+  ]
+}

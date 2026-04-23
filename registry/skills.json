@@ -1,0 +1,26 @@
+{
+  "version": "1.0.0",
+  "totalSkills": 20,
+  "skills": [
+    { "name": "Frontend Premium UI", "file": "frontend-premium-ui.md", "category": "ui", "stack": ["react", "nextjs", "laravel", "php", "html"], "when": "Criar ou melhorar UI para nível premium" },
+    { "name": "Frontend Redesign Audit", "file": "frontend-redesign-audit.md", "category": "audit", "stack": ["any"], "when": "Avaliar estado visual antes de redesenhar" },
+    { "name": "Component Upgrade", "file": "component-upgrade.md", "category": "ui", "stack": ["react", "vue", "laravel", "html"], "when": "Melhorar componentes existentes" },
+    { "name": "Design System Builder", "file": "design-system-builder.md", "category": "design", "stack": ["any"], "when": "Criar design system com tokens" },
+    { "name": "Tailwind + shadcn/ui Specialist", "file": "tailwind-shadcn-specialist.md", "category": "ui", "stack": ["react", "nextjs", "tailwind"], "when": "Projetos com Tailwind/shadcn" },
+    { "name": "React / Next.js UI Specialist", "file": "react-next-ui-specialist.md", "category": "ui", "stack": ["react", "nextjs"], "when": "Componentes React/Next.js modernos" },
+    { "name": "PHP / Laravel UI Specialist", "file": "php-laravel-ui-specialist.md", "category": "ui", "stack": ["php", "laravel"], "when": "UI premium em PHP/Laravel" },
+    { "name": "Responsive Mobile-First", "file": "responsive-mobile-first.md", "category": "layout", "stack": ["any"], "when": "Corrigir/implementar responsividade" },
+    { "name": "Accessibility (a11y) Audit", "file": "accessibility-a11y-audit.md", "category": "audit", "stack": ["any"], "when": "Garantir acessibilidade WCAG" },
+    { "name": "Motion & Animation Specialist", "file": "motion-animation-specialist.md", "category": "ui", "stack": ["any"], "when": "Adicionar animações e microinterações" },
+    { "name": "Dashboard SaaS UI", "file": "dashboard-saas-ui.md", "category": "ui", "stack": ["react", "nextjs", "laravel", "php"], "when": "Criar/melhorar dashboards" },
+    { "name": "Landing Page Conversion", "file": "landing-page-conversion.md", "category": "ui", "stack": ["react", "nextjs", "html"], "when": "Landing pages de alta conversão" },
+    { "name": "Forms & Inputs UX", "file": "forms-inputs-ux.md", "category": "ux", "stack": ["any"], "when": "Formulários com UX premium" },
+    { "name": "Buttons & CTA Specialist", "file": "buttons-cta-specialist.md", "category": "ui", "stack": ["any"], "when": "Sistema de botões premium" },
+    { "name": "Color & Typography System", "file": "color-typography-system.md", "category": "design", "stack": ["any"], "when": "Definir paleta e tipografia" },
+    { "name": "Security Code Audit", "file": "security-code-audit.md", "category": "security", "stack": ["php", "laravel", "nodejs", "react", "nextjs"], "when": "Auditoria de segurança" },
+    { "name": "Performance Frontend Audit", "file": "performance-frontend-audit.md", "category": "performance", "stack": ["any"], "when": "Otimizar performance front-end" },
+    { "name": "Legacy Project Modernizer", "file": "legacy-project-modernizer.md", "category": "refactor", "stack": ["php", "jquery", "bootstrap", "html"], "when": "Modernizar projetos antigos" },
+    { "name": "Bugfix Without Breaking", "file": "bugfix-without-breaking.md", "category": "maintenance", "stack": ["any"], "when": "Corrigir bugs com segurança" },
+    { "name": "Full Project Review", "file": "full-project-review.md", "category": "audit", "stack": ["any"], "when": "Revisão completa do projeto" }
+  ]
+}
